@@ -5,8 +5,8 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwakstar&theme=default" />
 </div>
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hwakstar&theme=github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hwakstar&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
 
 ## Languages & Tools
 <p align="center">
